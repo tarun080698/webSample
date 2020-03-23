@@ -1,4 +1,4 @@
-package com.example.websample;
+package com.example.WebSample;
 
 import org.junit.Test;
 
