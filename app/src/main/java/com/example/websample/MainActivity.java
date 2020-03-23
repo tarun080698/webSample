@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         WebView wv = findViewById(R.id.webV);
-        wv.loadUrl("https://plugins.jetbrains.com/");
+        wv.loadUrl("https://sivadass.github.io/react-shopping-cart/");
         WebSettings webSettings = wv.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webSettings.setPluginState(WebSettings.PluginState.ON);
